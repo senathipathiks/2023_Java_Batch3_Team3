@@ -19,12 +19,12 @@ class MyClass {
       System.out.println("remainder of two numbers :" &X/y)
    }
 
-void  add1()
+void  add1(int p,int q)
 {
-
+   
 }
 
-void mul2()
+void mul2(int t,int u)
 {
 
 }
