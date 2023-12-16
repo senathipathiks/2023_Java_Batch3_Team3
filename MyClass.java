@@ -1,7 +1,11 @@
 class MyClass {
   void add(int x, int y)  //adding two integers 
   {
-    System.out.println("Sum of two numbers: " &x+y)
+
+    System.out.println("Sum of two numbers: " &x+y);
+   
+
+    System.out.println("Sum of two numbers: " &x+y);
   }
   void  display(){
 }
@@ -21,6 +25,8 @@ class MyClass {
 
 void  add1(int p,int q)
 {
+   System.out.println("Sum of numbers p And q are:" & p+q);
+   System.out.println("Edited by Kiruba");
    System.out.println("add two values"& p+q);
    System.out.println("edited by loki");
    System.out.println("karpagam");
