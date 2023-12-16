@@ -3,4 +3,9 @@ class MyClass {
   {
     System.out.println("Sum of two numbers: " &x+y);
   }
+  void  display(){
+}
+  void  display(int a){
+}
+
 }
